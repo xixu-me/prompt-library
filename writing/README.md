@@ -20,6 +20,7 @@ This directory contains prompts for various writing and content creation tasks.
 - `creative-story-generator.md` - Generate creative stories and narratives
 - `prompt-generator.md` - Create structured, effective prompts for AI models
 - `github-copilot-prompt-generator.md` - Generate specialized prompts for GitHub Copilot's agent mode
+- `chinese-language-mode.md` - Ensure AI responses are delivered in Simplified Chinese
 
 ## Tips for Writing Prompts
 
