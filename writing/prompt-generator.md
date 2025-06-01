@@ -70,8 +70,6 @@ You are a skilled copywriter specializing in artisan product descriptions. Creat
 For each piece, provide: [Product name, materials, key design elements, and any special story or inspiration]
 ```
 
-````
-
 ## Variations
 
 ### Technical Documentation Prompts

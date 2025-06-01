@@ -160,7 +160,6 @@ Login response:
 ```
 
 ```
-````
 
 ## Variations
 
