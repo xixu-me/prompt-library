@@ -392,7 +392,6 @@ Create recovery plans for struggling businesses, including cost reduction, reven
 ## Related Prompts
 
 - [Market Analysis](./market-analysis.md) - For understanding market dynamics
-- [Financial Analyzer](./financial-analyzer.md) - For financial modeling and projections
 - [Goal Setter](../productivity/goal-setter.md) - For setting and tracking objectives
 
 ## Tags

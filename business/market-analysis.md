@@ -336,7 +336,6 @@ Focus on emerging technologies, disruptions, and innovation trends that could im
 ## Related Prompts
 
 - [Strategic Planner](./strategic-planner.md) - For developing business strategies
-- [Financial Analyzer](./financial-analyzer.md) - For financial modeling and analysis
 - [Research Synthesizer](../analysis/research-synthesizer.md) - For processing research data
 
 ## Tags

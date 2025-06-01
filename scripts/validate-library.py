@@ -33,6 +33,27 @@ def run_markdown_lint():
         return True
 
 
+def run_internal_link_check():
+    """Run internal file link checker."""
+    print("🔍 Running internal file link checks...")
+    try:
+        result = subprocess.run(
+            ["python", "scripts/check-internal-links.py"],
+            capture_output=True,
+            text=True,
+            cwd=Path.cwd(),
+        )
+
+        print(result.stdout)
+        if result.stderr:
+            print(result.stderr)
+
+        return result.returncode == 0
+    except Exception as e:
+        print(f"❌ Internal link check failed: {e}")
+        return False
+
+
 def run_template_compliance():
     """Run template compliance checker."""
     print("🔍 Running template compliance checks...")
@@ -114,12 +135,11 @@ def check_directory_structure():
 def main():
     """Run all validation checks."""
     print("🚀 Prompt Library Validation Suite")
-    print("=" * 40)
-
-    checks = [
+    print("=" * 40)    checks = [
         check_required_files,
         check_directory_structure,
         run_template_compliance,
+        run_internal_link_check,
         run_markdown_lint,
     ]
 

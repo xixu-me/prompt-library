@@ -94,7 +94,6 @@ Streamline business operations with AI assistance for strategy, analysis, and pr
 | **[Proposal Writer](business/proposal-writer.md)** | Create compelling business proposals and bids | Client proposals, project estimates, partnerships |
 | **[Strategic Planner](business/strategic-planner.md)** | Develop comprehensive business strategies | Business planning, competitive analysis, growth strategies |
 | **[Market Analysis](business/market-analysis.md)** | Analyze markets, competitors, and opportunities | Market research, competitive intelligence, business development |
-| **[Financial Analyzer](business/financial-analyzer.md)** | Financial analysis and business metrics evaluation | Financial planning, investment analysis, budget review |
 | **[Xianyu Product Description](business/xianyu-product-description.md)** | Create compelling product descriptions for Xianyu marketplace | E-commerce listings, second-hand sales, marketplace optimization |
 
 ### 📊 Analysis

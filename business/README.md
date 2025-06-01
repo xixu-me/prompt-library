@@ -18,7 +18,6 @@ This directory contains prompts for business and professional applications.
 - `proposal-writer.md` - Create compelling business proposals and bids
 - `strategic-planner.md` - Develop comprehensive business strategies
 - `market-analysis.md` - Analyze markets, competitors, and opportunities
-- `financial-analyzer.md` - Financial analysis and business metrics evaluation
 - `xianyu-product-description.md` - Create effective Xianyu marketplace listings
 
 ## Business Applications

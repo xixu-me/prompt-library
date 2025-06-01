@@ -19,7 +19,6 @@ jobs:
           config: .markdownlint.json
           files: "**/*.md"
           ignore: "node_modules"
-
   template-compliance:
     runs-on: ubuntu-latest
     name: Template Compliance Check
@@ -35,3 +34,18 @@ jobs:
         run: |
           python scripts/check-template-compliance.py
         continue-on-error: true
+
+  internal-links:
+    runs-on: ubuntu-latest
+    name: Internal File Link Check
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Check internal file links
+        run: |
+          python scripts/check-internal-links.py --verbose
