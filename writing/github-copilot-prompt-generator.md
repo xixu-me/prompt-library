@@ -140,6 +140,7 @@ Existing Code: API with existing route structure that should remain unchanged
 ## Examples
 
 Registration request body:
+
 ```json
 {
   "email": "user@example.com",
