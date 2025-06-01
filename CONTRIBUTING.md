@@ -268,7 +268,7 @@ Brief description of what this prompt does and why it's valuable.
 
 ### Contributors
 
-All contributors are recognized in our README and contributor documentation. Significant contributions may be highlighted in releases and community updates.
+All contributors are recognized in our README and contributor documentation.
 
 ### Maintainer Responsibilities
 

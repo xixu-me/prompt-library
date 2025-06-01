@@ -219,8 +219,6 @@ Ensure the lesson plan is age-appropriate, engaging, and aligns with educational
 ## Related Prompts
 
 - [Quiz Generator](quiz-generator.md) - Create assessments for this lesson
-- [Study Guide Creator](study-guide-creator.md) - Build review materials
-- [Learning Objective Writer](learning-objective-writer.md) - Refine lesson goals
 
 ## Tags
 

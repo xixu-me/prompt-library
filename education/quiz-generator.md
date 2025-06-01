@@ -193,8 +193,6 @@ d) British naval dominance
 ## Related Prompts
 
 - [Lesson Plan Generator](lesson-plan-generator.md) - Create lessons to prepare for this assessment
-- [Study Guide Creator](study-guide-creator.md) - Help students prepare effectively
-- [Learning Objective Writer](learning-objective-writer.md) - Align assessments with clear goals
 
 ## Tags
 

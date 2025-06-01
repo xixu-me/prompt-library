@@ -13,29 +13,29 @@ Provide the technical topic, target audience, and documentation type needed. Inc
 ```markdown
 Create technical documentation for the following:
 
-**Documentation Type:**
+### Documentation Type
 [User Guide / API Documentation / Tutorial / Technical Specification / README / Other]
 
-**Target Audience:**
+### Target Audience
 [Developers / End Users / System Administrators / Technical Writers / Other]
 
-**Technical Subject:**
+### Technical Subject
 [Describe what needs to be documented]
 
-**Requirements:**
+### Requirements
 - **Scope**: [What should be covered and what should be excluded]
 - **Format**: [Markdown / HTML / PDF / Wiki / Other]
 - **Length**: [Brief overview / Comprehensive guide / Reference manual]
 - **Technical Level**: [Beginner / Intermediate / Advanced / Mixed audience]
 
-**Source Material:**
+### Source Material
 ```
 
 [CODE, APIs, SPECIFICATIONS, OR OTHER TECHNICAL CONTENT TO DOCUMENT]
 
 ```
 
-**Special Requirements:**
+### Special Requirements
 - [Include examples / screenshots / diagrams]
 - [SEO considerations for web documentation]
 - [Translation requirements]
@@ -50,26 +50,29 @@ Please structure the documentation with:
 5. Troubleshooting section
 6. Reference materials and links
 
-**Additional Context:**
+### Additional Context
 [Any background information, existing documentation to reference, or specific pain points to address]
 ```
 
 ## Example Input
 
 ```markdown
-**Documentation Type:** API Documentation
+### Documentation Type
+API Documentation
 
-**Target Audience:** Frontend developers integrating with our REST API
+### Target Audience
+Frontend developers integrating with our REST API
 
-**Technical Subject:** User authentication and profile management API
+### Technical Subject
+User authentication and profile management API
 
-**Requirements:**
+### Requirements
 - **Scope**: Authentication endpoints, profile CRUD operations, error handling
 - **Format**: Markdown for developer portal
 - **Length**: Comprehensive reference with examples
 - **Technical Level**: Intermediate developers familiar with REST APIs
 
-**Source Material:**
+### Source Material
 ```python
 # Authentication endpoints
 @app.route('/api/auth/login', methods=['POST'])
@@ -99,7 +102,7 @@ def update_profile():
     return jsonify(updated_profile)
 ```
 
-**Special Requirements:**
+### Special Requirements
 
 - Include curl examples for each endpoint
 - Show both success and error response formats

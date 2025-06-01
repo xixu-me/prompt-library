@@ -1,13 +1,5 @@
 # Security Policy
 
-## Supported Versions
-
-The Prompt Library follows semantic versioning. Security updates are provided for the following versions:
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.0.x   | :white_check_mark: |
-
 ## Reporting a Vulnerability
 
 We take security seriously. If you discover a security vulnerability in the Prompt Library, please report it responsibly:
@@ -25,7 +17,6 @@ We take security seriously. If you discover a security vulnerability in the Prom
 
 - **Acknowledgment**: We'll acknowledge receipt within 48 hours
 - **Assessment**: Initial assessment within 5 business days
-- **Resolution**: Security fixes will be prioritized and released as patch versions
 - **Disclosure**: Coordinated disclosure after fix is available
 
 ### Security Considerations for Prompts

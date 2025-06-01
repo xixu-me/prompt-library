@@ -334,9 +334,8 @@ Balance engaging plot, accessible characters, and market appeal while delivering
 
 ## Related Prompts
 
-- [Character Designer](./character-designer.md) - For developing compelling characters
-- [World Builder](./world-builder.md) - For creating detailed fictional settings  
 - [Creative Story Generator](../writing/creative-story-generator.md) - For shorter story concepts
+- [Brainstorming Session](./brainstorming-session.md) - For generating creative ideas
 
 ## Tags
 

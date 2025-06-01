@@ -2,9 +2,9 @@
 
 A comprehensive collection of professional AI prompts across various categories, designed to enhance productivity, creativity, and technical workflows. This library provides battle-tested prompts with clear examples, usage instructions, and best practices.
 
+[![Quality Assurance](https://github.com/xixu-me/prompt-library/actions/workflows/quality-assurance.yml/badge.svg)](https://github.com/xixu-me/prompt-library/actions/workflows/quality-assurance.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Release](https://img.shields.io/github/v/release/xixu-me/prompt-library)](https://github.com/xixu-me/prompt-library/releases)
 
 ## 📈 Library Features
 
