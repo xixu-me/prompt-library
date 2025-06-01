@@ -15,7 +15,7 @@ A comprehensive collection of professional AI prompts across various categories,
 
 ## 📁 Repository Structure
 
-```text
+```
 prompt-library/
 ├── 💻 development/         # Software development & engineering
 ├── ✍️  writing/            # Content creation & communication  
