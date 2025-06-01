@@ -83,6 +83,8 @@ Enhance your writing across technical documentation, creative content, and profe
 | **[Marketing Copy Creator](writing/marketing-copy-creator.md)** | Compelling marketing and sales copy | Landing pages, product descriptions, campaigns |
 | **[Creative Story Generator](writing/creative-story-generator.md)** | Generate creative stories and narratives | Creative writing, content creation, storytelling |
 | **[GitHub Copilot Prompt Generator](writing/github-copilot-prompt-generator.md)** | Create effective prompts for GitHub Copilot's agent mode | Development task automation, code generation, AI-assisted development |
+| **[Prompt Generator](writing/prompt-generator.md)** | Create clear, effective prompts for other AI models | Prompt engineering, AI research, content optimization |
+| **[Chinese Language Mode](writing/chinese-language-mode.md)** | Ensure AI responses are delivered in Simplified Chinese | Chinese communication, language learning, localization |
 
 ### 💼 Business
 
