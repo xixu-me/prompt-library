@@ -75,8 +75,6 @@ I need to add user authentication to my Express.js API. Users should be able to 
 
 ## Example Output
 
-```markdown`markdown
-
 ```markdown
 ## Objective
 

@@ -90,7 +90,7 @@ Please structure the proposal with:
 
 ## Example Output
 
-```markdownmarkdown
+```markdown
 # Inventory Management System Implementation Proposal
 
 **Prepared for:** GreenTech Manufacturing  

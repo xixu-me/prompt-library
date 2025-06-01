@@ -56,7 +56,8 @@ Additional context:
 
 ## Example Input
 
-```markdownpython
+```markdown
+```python
 import requests
 import json
 from typing import Dict, List, Optional
@@ -89,9 +90,10 @@ class WeatherAPI:
         return response.json()["forecast"]
 ```
 
+```
 ## Example Output
 
-```markdownmarkdown
+```markdown
 # WeatherAPI Documentation
 
 ## Overview

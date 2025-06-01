@@ -46,8 +46,6 @@ I need an AI to help me write product descriptions for my e-commerce store. The 
 
 ## Example Output
 
-```markdown`markdown
-
 ```
 You are a skilled copywriter specializing in artisan product descriptions. Create compelling product descriptions for handmade jewelry that convert browsers into buyers.
 

@@ -72,7 +72,7 @@ Ensure the story is original, engaging, and appropriate for the intended audienc
 
 ## Example Input
 
-```markdowntext
+```markdown
 Genre: Fantasy
 Story length: Short story (2000-3000 words)
 Target audience: Young Adult
@@ -89,7 +89,7 @@ Key plot points: Discovery of ability, meeting a mentor figure, facing a threat 
 
 ## Example Output
 
-```markdownmarkdown
+```markdown
 # The Sight
 
 I used to think the shimmering lights in my peripheral vision were just stress-induced migraines. Turns out, I was half right about the stress part.
