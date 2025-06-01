@@ -70,6 +70,6 @@ Add any additional context, screenshots, or notes for reviewers here.
 
 By submitting this pull request, I confirm that:
 
-- [ ] I have read and followed the [contributing guidelines](CONTRIBUTING.md)
+- [ ] I have read and followed the [contributing guidelines](../CONTRIBUTING.md)
 - [ ] This content is my original work or properly attributed
 - [ ] I agree to license this contribution under the MIT License
