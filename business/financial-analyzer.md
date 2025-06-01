@@ -156,6 +156,7 @@ Specific questions:
 ### Profitability Analysis
 
 ```
+
                     2021    2022    2023    Trend
 Revenue             $8.1M   $11.2M  $15.1M  +35% CAGR
 Gross Profit        $4.7M   $6.5M   $9.1M   +39% CAGR  
@@ -163,6 +164,7 @@ Gross Margin        58%     58%     60%     Improving
 EBITDA             ($0.5M)  $0.8M   $2.3M   Strong
 EBITDA Margin       -6%     7%      15%     +21pp
 Net Income         ($1.1M)  $0.2M   $1.8M   Positive
+
 ```
 
 **Efficiency Ratios:**
@@ -185,12 +187,14 @@ Net Income         ($1.1M)  $0.2M   $1.8M   Positive
 ### Base Case 5-Year Projections
 
 ```
+
 Year            2024E   2025E   2026E   2027E   2028E
 ARR             $20.4M  $26.0M  $32.5M  $39.0M  $44.9M
 Growth Rate     35%     27%     25%     20%     15%
 Gross Margin    62%     65%     68%     70%     72%
 EBITDA Margin   18%     22%     26%     28%     30%
 FCF             $4.2M   $6.8M   $10.1M  $12.8M  $15.2M
+
 ```
 
 ### Key Assumptions
@@ -246,11 +250,13 @@ FCF             $4.2M   $6.8M   $10.1M  $12.8M  $15.2M
 ### Valuation Summary
 
 ```
+
 Method                  Low     High    Midpoint
 DCF Analysis           $48M    $52M    $50M
 Comparable Companies   $45M    $55M    $50M  
 Precedent Transactions $42M    $58M    $50M
 Weighted Average       $45M    $55M    $50M
+
 ```
 
 ---
@@ -273,11 +279,13 @@ Weighted Average       $45M    $55M    $50M
 ### Free Cash Flow Generation
 
 ```
+
 Year        2024E   2025E   2026E   2027E   2028E
 OCF         $4.5M   $7.2M   $10.6M  $13.4M  $15.9M
 CapEx       ($0.3M) ($0.4M) ($0.5M) ($0.6M) ($0.7M)
 FCF         $4.2M   $6.8M   $10.1M  $12.8M  $15.2M
 FCF Margin  21%     26%     31%     33%     34%
+
 ```
 
 ---
