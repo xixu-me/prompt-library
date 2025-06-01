@@ -76,9 +76,9 @@ Ensure the lesson plan is age-appropriate, engaging, and aligns with educational
 
 ## Example Output
 
-# 5th Grade Science Lesson Plan: The Water Cycle
+### 5th Grade Science Lesson Plan: The Water Cycle
 
-## Lesson Overview
+#### Lesson Overview
 
 **Learning Objectives:**
 
@@ -90,7 +90,7 @@ Ensure the lesson plan is age-appropriate, engaging, and aligns with educational
 
 **Prerequisites:** Basic understanding of states of matter (solid, liquid, gas)
 
-## Materials and Resources
+### Materials and Resources
 
 - Interactive whiteboard/projector
 - Water cycle video (3 minutes)
@@ -100,7 +100,7 @@ Ensure the lesson plan is age-appropriate, engaging, and aligns with educational
 - Vocabulary cards with visuals
 - Digital timer
 
-## Lesson Structure
+### Lesson Structure
 
 ### Opening Hook (5 minutes)
 
@@ -132,7 +132,7 @@ Ensure the lesson plan is age-appropriate, engaging, and aligns with educational
 - Quick gallery walk of student diagrams
 - Exit ticket: Draw one stage of the water cycle and explain it
 
-## Teaching Strategies
+### Teaching Strategies
 
 **Instructional Methods:**
 

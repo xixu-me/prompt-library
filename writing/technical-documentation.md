@@ -309,18 +309,18 @@ curl -X PUT https://api.yourapp.com/v1/api/profile \
 
 ### Common Issues
 
-**"Invalid credentials" error**
+#### "Invalid credentials" error
 
 - Verify email and password are correct
 - Ensure email is properly formatted
 - Check if account exists and is active
 
-**"Token expired" error**
+#### "Token expired" error
 
 - Obtain a new token using the login endpoint
 - Implement token refresh logic in your application
 
-**Rate limiting errors**
+#### Rate limiting errors
 
 - Implement exponential backoff in your requests
 - Cache responses when possible to reduce API calls

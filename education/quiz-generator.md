@@ -85,9 +85,9 @@ Ensure questions are:
 
 ## Example Output
 
-# World War II European Theater - Unit Test
+### World War II European Theater - Unit Test
 
-## Assessment Overview
+#### Assessment Overview
 
 **Instructions:** Answer all questions clearly and completely. Use specific examples and evidence to support your answers. You have 50 minutes to complete this assessment.
 
@@ -107,7 +107,7 @@ b) The bombing of Pearl Harbor
 c) The Battle of Britain
 d) The invasion of France
 
-*Answer: A - The invasion of Poland by Germany on September 1, 1939*
+### Answer: A - The invasion of Poland by Germany on September 1, 1939
 
 **2. (Medium) Which of the following best explains why the Maginot Line failed to protect France?**
 a) It was poorly constructed and easily destroyed
@@ -115,7 +115,7 @@ b) Germany attacked through Belgium, bypassing the line
 c) French soldiers abandoned their posts
 d) The line was never completed
 
-*Answer: B - Germany used blitzkrieg tactics through Belgium and the Ardennes, circumventing the static defenses*
+### Answer: B - Germany used blitzkrieg tactics through Belgium and the Ardennes, circumventing the static defenses
 
 **3. (Hard) Analyze this quote from Churchill: "We shall never surrender." This statement primarily demonstrates:**
 a) British military superiority
@@ -123,27 +123,27 @@ b) Churchill's political strategy to maintain morale
 c) Certainty of Allied victory
 d) British naval dominance
 
-*Answer: B - This was a key rhetorical strategy to maintain civilian and military morale during Britain's darkest hour*
+### Answer: B - This was a key rhetorical strategy to maintain civilian and military morale during Britain's darkest hour
 
 [Continues with 17 more multiple choice questions...]
 
 ## Section B: Short Answer (40 points, 10 points each)
 
-**1. (Easy) Identify and briefly explain two causes of World War II in Europe. (10 points)**
+### 1. (Easy) Identify and briefly explain two causes of World War II in Europe. (10 points)
 
-*Sample Answer: Treaty of Versailles created economic hardship and resentment in Germany (5 points). Rise of fascist ideologies that promoted aggressive expansion (5 points). Other acceptable answers: Economic depression, failure of League of Nations, appeasement policies.*
+**Sample Answer:** Treaty of Versailles created economic hardship and resentment in Germany (5 points). Rise of fascist ideologies that promoted aggressive expansion (5 points). Other acceptable answers: Economic depression, failure of League of Nations, appeasement policies.
 
-**2. (Medium) Using the primary source excerpt provided, explain how Nazi propaganda portrayed the invasion of Poland. What techniques are evident? (10 points)**
+### 2. (Medium) Using the primary source excerpt provided, explain how Nazi propaganda portrayed the invasion of Poland. What techniques are evident? (10 points)
 
-*Rubric: Identifies specific propaganda techniques (4 points), explains how Poland invasion was justified (3 points), demonstrates understanding of source context (3 points)*
+**Rubric:** Identifies specific propaganda techniques (4 points), explains how Poland invasion was justified (3 points), demonstrates understanding of source context (3 points)
 
-**3. (Hard) Compare and contrast the impact of WWII on civilian populations in Britain versus occupied France. Provide specific examples. (10 points)**
+### 3. (Hard) Compare and contrast the impact of WWII on civilian populations in Britain versus occupied France. Provide specific examples. (10 points)
 
-*Rubric: Clear comparison structure (2 points), specific examples from both countries (4 points), demonstrates understanding of occupation vs. bombing (4 points)*
+**Rubric:** Clear comparison structure (2 points), specific examples from both countries (4 points), demonstrates understanding of occupation vs. bombing (4 points)
 
-**4. (Medium) Evaluate the effectiveness of the Blitzkrieg strategy in the early stages of WWII. (10 points)**
+### 4. (Medium) Evaluate the effectiveness of the Blitzkrieg strategy in the early stages of WWII. (10 points)
 
-*Sample Answer: Highly effective initially - rapid conquest of Poland, Denmark, Norway, France (4 points). Advantages: speed, coordination of air/ground forces, psychological impact (3 points). Limitations: required specific conditions, less effective in USSR (3 points)*
+**Sample Answer:** Highly effective initially - rapid conquest of Poland, Denmark, Norway, France (4 points). Advantages: speed, coordination of air/ground forces, psychological impact (3 points). Limitations: required specific conditions, less effective in USSR (3 points)
 
 ## Section C: Essay Question (20 points)
 

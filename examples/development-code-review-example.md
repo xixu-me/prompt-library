@@ -47,24 +47,24 @@ def register_user(username, password):
 
 **HIGH Priority Issues:**
 
-3. **No Input Validation** (Both functions)
+1. **No Input Validation** (Both functions)
    - **Issue**: No validation for None/empty inputs
    - **Risk**: Runtime errors and potential injection attacks
    - **Fix**: Add comprehensive input sanitization
 
-4. **Weak Password Policy** (Line 2, register_user)
+2. **Weak Password Policy** (Line 2, register_user)
    - **Issue**: Only checks length, no complexity requirements
    - **Risk**: Vulnerable to brute force attacks
    - **Fix**: Implement strong password validation
 
 **MEDIUM Priority Issues:**
 
-5. **No Rate Limiting**
+1. **No Rate Limiting**
    - **Issue**: Unlimited login attempts possible
    - **Risk**: Brute force vulnerability
    - **Fix**: Add login attempt tracking and temporary lockouts
 
-6. **Poor Error Messages** (register_user)
+2. **Poor Error Messages** (register_user)
    - **Issue**: Generic error messages
    - **Risk**: Poor user experience
    - **Fix**: Provide specific, helpful error descriptions

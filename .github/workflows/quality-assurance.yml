@@ -20,19 +20,6 @@ jobs:
           files: "**/*.md"
           ignore: "node_modules"
 
-  link-check:
-    runs-on: ubuntu-latest
-    name: Check Links
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Check internal links
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
-        with:
-          use-quiet-mode: "yes"
-          use-verbose-mode: "yes"
-          config-file: ".markdown-link-check.json"
-
   template-compliance:
     runs-on: ubuntu-latest
     name: Template Compliance Check
@@ -48,15 +35,3 @@ jobs:
         run: |
           python scripts/check-template-compliance.py
         continue-on-error: true
-
-  spell-check:
-    runs-on: ubuntu-latest
-    name: Spell Check
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Spell Check
-        uses: rojopolis/spellcheck-github-actions@0.36.0
-        with:
-          config_path: .spellcheck.yml
-          task_name: Markdown

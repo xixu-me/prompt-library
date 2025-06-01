@@ -105,9 +105,9 @@ def scrape_data():
 ## Example Output
 ```
 
-# Debug Analysis Report
+### Debug Analysis Report
 
-## Root Cause Analysis
+#### Root Cause Analysis
 
 **Primary Issue:** Rate limiting and connection management
 The error indicates connection refusal, which typically occurs when:
@@ -123,7 +123,7 @@ The error indicates connection refusal, which typically occurs when:
 - No User-Agent header (common anti-bot trigger)
 - No retry mechanism for transient failures
 
-## Debugging Strategy
+### Debugging Strategy
 
 ### Immediate Debugging Steps
 
@@ -144,9 +144,9 @@ response = requests.get(url, timeout=10)
 print(f"Response status: {response.status_code}")
 ```
 
-## Solution Options
+### Solution Options
 
-### Primary Fix (Recommended)
+#### Primary Fix (Recommended)
 
 ```python
 import requests
@@ -197,9 +197,9 @@ def scrape_data():
 3. **Add proxy rotation**: If being blocked by IP
 4. **Use async requests**: For better connection management
 
-## Testing Approach
+### Testing Approach
 
-### Verification Steps
+#### Verification Steps
 
 1. **Unit test**: Test with single URL first
 2. **Load test**: Gradually increase number of URLs
@@ -221,7 +221,7 @@ def test_scraper():
     assert duration >= 2  # Ensure delay is working
 ```
 
-## Prevention Measures
+### Prevention Measures
 
 - Always implement proper error handling
 - Use session objects for connection reuse

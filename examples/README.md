@@ -57,15 +57,15 @@ Each example follows this format:
 - **Analysis**: What worked well and areas for improvement
 - **Variations**: How the prompt could be modified for different results
 
-## Categories
+## Output Categories
 
-### Development Examples
+### Development Outputs
 
 - Code review sessions
 - Documentation generation
 - Architecture planning outputs
 
-### Writing Examples
+### Writing Outputs
 
 - Blog post drafts
 - Technical documentation
@@ -77,13 +77,13 @@ Each example follows this format:
 - Research summaries
 - Decision frameworks in action
 
-### Creative Examples
+### Creative Outputs
 
 - Story excerpts
 - Character profiles
 - Creative brainstorming sessions
 
-### Business Examples
+### Business Outputs
 
 - Strategic plans
 - Market analysis reports
@@ -101,7 +101,7 @@ Each example follows this format:
 - Schedule optimizations
 - Goal setting frameworks
 
-## How to Use Examples
+## Learning from Examples
 
 1. Review examples similar to your use case
 2. Note what makes an example effective

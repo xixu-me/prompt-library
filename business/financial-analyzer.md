@@ -154,8 +154,8 @@ Specific questions:
 - **Average Contract Value**: $18K annually (+15% YoY)
 
 ### Profitability Analysis
-```
 
+```
                     2021    2022    2023    Trend
 Revenue             $8.1M   $11.2M  $15.1M  +35% CAGR
 Gross Profit        $4.7M   $6.5M   $9.1M   +39% CAGR  
@@ -163,15 +163,16 @@ Gross Margin        58%     58%     60%     Improving
 EBITDA             ($0.5M)  $0.8M   $2.3M   Strong
 EBITDA Margin       -6%     7%      15%     +21pp
 Net Income         ($1.1M)  $0.2M   $1.8M   Positive
-
 ```
 
 **Efficiency Ratios:**
+
 - **Rule of 40**: 50% (35% growth + 15% EBITDA margin) - Excellent
 - **CAC Payback**: 18 months (target: <12 months)
 - **LTV/CAC Ratio**: 4.2x (healthy, target: >3.0x)
 
 ### Liquidity & Leverage
+
 - **Current Ratio**: 3.2x (strong liquidity position)
 - **Cash**: $8.1M (16 months runway at current burn)
 - **Debt/Equity**: 0.1x (minimal leverage)
@@ -181,27 +182,30 @@ Net Income         ($1.1M)  $0.2M   $1.8M   Positive
 
 ## Financial Modeling & Projections
 
-### Base Case 5-Year Projections:
-```
+### Base Case 5-Year Projections
 
+```
 Year            2024E   2025E   2026E   2027E   2028E
 ARR             $20.4M  $26.0M  $32.5M  $39.0M  $44.9M
 Growth Rate     35%     27%     25%     20%     15%
 Gross Margin    62%     65%     68%     70%     72%
 EBITDA Margin   18%     22%     26%     28%     30%
 FCF             $4.2M   $6.8M   $10.1M  $12.8M  $15.2M
-
 ```
 
-### Key Assumptions:
+### Key Assumptions
+
 - **Revenue Growth**: Decelerating but healthy (35% → 15% by 2028)
 - **Gross Margin Expansion**: Pricing optimization and scale effects
 - **OpEx Scaling**: 75% variable with revenue (improving efficiency)
 - **Capital Requirements**: Minimal CapEx, working capital neutral
 
-### Scenario Analysis:
+### Scenario Analysis
+
 **Bull Case** (+25% revenue, +500bp margins): $75M+ valuation
-**Base Case** (model above): $50M valuation  
+
+**Base Case** (model above): $50M valuation
+
 **Bear Case** (-20% revenue, -300bp margins): $35M valuation
 
 ---
@@ -209,93 +213,107 @@ FCF             $4.2M   $6.8M   $10.1M  $12.8M  $15.2M
 ## Valuation Analysis
 
 ### DCF Valuation: $48-52M
+
 **Key Assumptions:**
+
 - **Discount Rate**: 12% (risk-adjusted for private SaaS)
 - **Terminal Growth**: 3% (conservative for mature SaaS)
 - **Terminal EBITDA Margin**: 35% (industry leaders)
 - **FCF Projection**: $53M cumulative 5-year FCF
 
 ### Comparable Company Analysis: $45-55M
+
 **Public SaaS Multiples (Revenue):**
+
 - High-growth (>30%): 8-12x revenue
 - Mid-growth (15-30%): 5-8x revenue  
 - **Target Multiple**: 3.0-3.7x revenue (growth-adjusted)
 
 **Peer Comparison:**
+
 - **HubSpot** (larger, more mature): 12x revenue, 40% growth
 - **Freshworks** (similar size): 6x revenue, 25% growth
 - **Target Range**: 3.2x revenue = $48M valuation
 
 ### Precedent Transactions: $42-58M
+
 **Recent SaaS Acquisitions:**
+
 - Similar size/growth: 2.5-4.0x revenue multiples
 - Strategic premium: +15-25% vs. financial buyer
 - **Range**: 2.8-3.8x revenue
 
-### Valuation Summary:
-```
+### Valuation Summary
 
+```
 Method                  Low     High    Midpoint
 DCF Analysis           $48M    $52M    $50M
 Comparable Companies   $45M    $55M    $50M  
 Precedent Transactions $42M    $58M    $50M
 Weighted Average       $45M    $55M    $50M
-
 ```
 
 ---
 
 ## Cash Flow Analysis
 
-### Operating Cash Flow Quality:
+### Operating Cash Flow Quality
+
 - **Cash Conversion**: 95%+ of EBITDA converts to cash
 - **Working Capital**: Positive from deferred revenue
 - **Seasonality**: Minimal (subscription model)
 - **Predictability**: High visibility from recurring revenue
 
-### Capital Requirements:
+### Capital Requirements
+
 - **CapEx**: <2% of revenue (mostly IT equipment)
 - **R&D Investment**: 15% of revenue (product development)
 - **Sales & Marketing**: 25% of revenue (customer acquisition)
 
-### Free Cash Flow Generation:
-```
+### Free Cash Flow Generation
 
+```
 Year        2024E   2025E   2026E   2027E   2028E
 OCF         $4.5M   $7.2M   $10.6M  $13.4M  $15.9M
 CapEx       ($0.3M) ($0.4M) ($0.5M) ($0.6M) ($0.7M)
 FCF         $4.2M   $6.8M   $10.1M  $12.8M  $15.2M
 FCF Margin  21%     26%     31%     33%     34%
-
 ```
 
 ---
 
 ## Risk Assessment
 
-### Financial Risks:
+### Financial Risks
+
 **Medium Risk:**
+
 - **Customer Concentration**: Top 10 customers = 45% revenue
 - **Competitive Pressure**: Well-funded competitors entering market
 - **Growth Sustainability**: Can the 35% growth rate be maintained?
 
 **Low Risk:**
+
 - **Cash Position**: Strong balance sheet, 16+ months runway
 - **Revenue Quality**: High recurring, low churn, strong retention
 - **Unit Economics**: Proven LTV/CAC ratios and payback periods
 
-### Operational Risks:
+### Operational Risks
+
 - **Talent Retention**: Key developers and sales team retention critical
 - **Product Development**: Need continued innovation in competitive market
 - **Scalability**: Systems and processes must scale with growth
 
-### Market Risks:
+### Market Risks
+
 - **Economic Downturn**: SaaS resilient but SMB customers vulnerable
 - **Market Saturation**: TAM growing but competitive intensity increasing
 - **Technology Disruption**: AI/automation could change competitive landscape
 
-### Stress Testing:
+### Stress Testing
+
 **Downside Scenario**: 20% revenue decline, 500bp margin compression
+
 - **Impact**: Valuation drops to $35M (-30%)
 - **Mitigation**: Strong cash position provides 2+ year runway
 
@@ -303,43 +321,52 @@ FCF Margin  21%     26%     31%     33%     34%
 
 ## Investment Recommendations
 
-### Strategic Priorities Post-Acquisition:
+### Strategic Priorities Post-Acquisition
 
 **1. Sales & Marketing Optimization** (6-12 months)
+
 - Improve CAC payback from 18 to 12 months
 - Implement account-based marketing for enterprise segment
 - **Target**: 40% improvement in sales efficiency
 
-**2. Pricing Strategy Enhancement** (3-6 months)  
+**2. Pricing Strategy Enhancement** (3-6 months)
+
 - Value-based pricing to improve gross margins to 70%+
 - Introduce premium tiers with advanced features
 - **Target**: 500bp gross margin improvement
 
 **3. Product Development Acceleration** (12-18 months)
+
 - AI/automation features to differentiate from competitors
 - Enterprise features to move upmarket
 - **Target**: 20%+ improvement in win rates vs. competitors
 
 **4. Market Expansion** (18-24 months)
+
 - Geographic expansion to European markets
 - Adjacent vertical markets with similar workflows
 - **Target**: 25% of revenue from new markets by Year 3
 
-### Financial Targets (5-Year):
+### Financial Targets (5-Year)
+
 - **Revenue**: $45M ARR (15% CAGR)
 - **EBITDA Margin**: 30%+ (vs. 15% current)
 - **Enterprise Value**: $100M+ (2.0x multiple expansion)
 - **IRR Target**: 25%+ for PE investment
 
-### Key Metrics to Monitor:
+### Key Metrics to Monitor
+
 - **Growth**: Monthly ARR, net new ARR, logo retention
 - **Efficiency**: CAC payback, LTV/CAC, magic number
 - **Quality**: NPS, churn rate, expansion revenue
 - **Profitability**: Gross margin, EBITDA margin, FCF conversion
 
-**Recommended Acquisition Price Range: $45-55M**
-**Target IRR**: 25-30% over 5-year hold period
-**Exit Multiple Assumption**: 4-5x revenue at 15-20% growth rates
+#### Recommended Acquisition Price Range: $45-55M
+
+#### Target IRR: 25-30% over 5-year hold period
+
+#### Exit Multiple Assumption: 4-5x revenue at 15-20% growth rates
+
 ```
 
 ## Variations
