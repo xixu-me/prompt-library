@@ -18,7 +18,7 @@ A comprehensive collection of professional AI prompts across various categories,
 ```
 prompt-library/
 ├── 💻 development/         # Software development & engineering
-├── ✍️ writing/            # Content creation & communication  
+├── ✍️ writing/             # Content creation & communication  
 ├── 📊 analysis/            # Data analysis & research
 ├── 💼 business/            # Business strategy & operations
 ├── 🎨 creative/            # Innovation & creative thinking
