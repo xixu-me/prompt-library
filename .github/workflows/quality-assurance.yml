@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Markdown Lint
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Lint Markdown files
         uses: articulate/actions-markdownlint@v1
@@ -26,7 +26,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Template Compliance Check
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -42,7 +42,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Internal File Link Check
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Setup Python
         uses: actions/setup-python@v5
