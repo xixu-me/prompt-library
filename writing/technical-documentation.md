@@ -297,7 +297,7 @@ curl -X PUT https://api.yourapp.com/v1/api/profile \
 ## Error Codes
 
 | Code | HTTP Status | Description |
-|------|-------------|-------------|
+| ---- | ----------- | ----------- |
 | `INVALID_CREDENTIALS` | 401 | Email or password is incorrect |
 | `TOKEN_EXPIRED` | 401 | JWT token has expired |
 | `TOKEN_INVALID` | 401 | JWT token is malformed or invalid |
