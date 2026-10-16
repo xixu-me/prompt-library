@@ -5,6 +5,10 @@
 
 A comprehensive collection of professional AI prompts across various categories, designed to enhance productivity, creativity, and technical workflows. This library provides battle-tested prompts with clear examples, usage instructions, and best practices.
 
+## 🎥 From a polished prompt to a finished clip
+
+For prompts that should leave the chat and become real media, [Renoise](https://renoise.ai/plugin) turns creative direction into video, image, and music generation in the same conversation. Explore the [official plugin repository](https://github.com/ArcoCodes/renoise-plugins-official) when a great prompt is ready for production.
+
 [![Quality Assurance](https://github.com/xixu-me/prompt-library/actions/workflows/quality-assurance.yml/badge.svg)](https://github.com/xixu-me/prompt-library/actions/workflows/quality-assurance.yml)
 [![GitHub License](https://img.shields.io/github/license/xixu-me/prompt-library)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
